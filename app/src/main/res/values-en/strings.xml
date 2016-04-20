@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android Coursera</string>
+    <string name="texto_boton">Enter</string>
+    <string name="saludo">Welcome</string>
+</resources>
